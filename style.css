@@ -1,4 +1,26 @@
 body {
   background-color: rgb(32, 35, 41);
   color: rgb(158, 158, 158);
+  font-family: Arial;
+}
+
+.article {
+  background-color: #24292e;
+  color: #f5f5f5;
+}
+
+#hero {
+  background-color: #fff;
+  color: #202428;
+  text-align: center;
+}
+
+.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
 }
